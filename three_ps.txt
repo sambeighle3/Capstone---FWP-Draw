@@ -1,0 +1,10 @@
+#1 - 1/29/2024
+Progress: I have made progress and complete all of the data cleaning and merging tasks. 
+I have created a regression model that decently predicts, but still looking to find a way to get the simulation to work with solid accuracy.
+
+Problems: I am stuck on the simulation. I am working through best processes to create a simulation and still improving my understanding of the use of simulations. 
+I am also working with whether I should simulate the applicants, or just the draw percentage.
+
+Plans: I plan to continue to explore the internet for information on simulations and then continue to try and work through the necessary coding.
+
+Hours: I have spent 20 hours or so over break on my project leading up to this week. Last week was chaotic for me so my work on it was slightly less.
