@@ -1,3 +1,12 @@
+#2 - 2/5/2024
+Progress: I spent the week working on different models to try and find the best fitting one. While there was not a clear cut "best" model. I did settle upon one that I think will be acceptable moving forward in this project.
+
+Problems: I am having some problems trying to do the calculations with the modeled data because of some data formatting issues. It's not a huge problem and I will have it resolved with a few more hours of troubleshooting.
+
+Plans: I plan to fix the problems then quality check my work and hopefully start working on more of the digital product moving forward.
+
+
+
 #1 - 1/29/2024
 Progress: I have made progress and complete all of the data cleaning and merging tasks. 
 I have created a regression model that decently predicts, but still looking to find a way to get the simulation to work with solid accuracy.
