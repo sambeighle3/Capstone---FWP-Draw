@@ -1,3 +1,13 @@
+#3 - 2/12/2024
+Progress: I have now switched gears to a simulation approach of the number of points in my dataset. We met with John and made good progress on the direction of this project.
+
+Problems: I am now tasked with creating a simulation based on the percentage change from year to year. This is a new task I will spend the week trying to tackle.
+
+Plans: I plan to work this week on the code and hopefully get it to work by the weekend.
+
+
+
+
 #2 - 2/5/2024
 Progress: I spent the week working on different models to try and find the best fitting one. While there was not a clear cut "best" model. I did settle upon one that I think will be acceptable moving forward in this project.
 
