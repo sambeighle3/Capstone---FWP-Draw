@@ -1,3 +1,10 @@
+#4 - 2/19/2024
+Progress: I have made progress on the different types of models. So far the best model is looking to be the simulation pulling the different factors.
+
+Problems: I am working through an alternative route with John that accounts for the variability in the system. A resampling method that pulls from the error in the predictions of an exponential smoothing model.
+
+Plans: I plan to continue work on both of these parts of the project. My goal would be to deploy this before April 1. I know that's a long shot, but that's also the deadline for permit applications for 2024. 
+
 #3 - 2/12/2024
 Progress: I have now switched gears to a simulation approach of the number of points in my dataset. We met with John and made good progress on the direction of this project.
 
