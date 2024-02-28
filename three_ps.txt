@@ -1,3 +1,12 @@
+#5 - 2/27/2024
+Progress: I have the simulation working for a single permit.
+
+Problems: I am struggling to get it to work for every permit in a file.
+
+Plans: I plan to continue work on both of these parts of the project. My goal would be to deploy this before April 1. I know that's a long shot, but that's also the deadline for permit applications for 2024. 
+
+Hours: 15-20 - its taking a lot of time every week
+
 #4 - 2/19/2024
 Progress: I have made progress on the different types of models. So far the best model is looking to be the simulation pulling the different factors.
 
