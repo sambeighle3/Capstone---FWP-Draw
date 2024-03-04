@@ -1,3 +1,12 @@
+#6 - 3/4/2024
+Progress: I have the simulation working for all permits and the lottery.
+
+Problems: The code continues to crash my computer so I am looking for ways to optimize this. 
+
+Plans: I am looking into different methods to get the code to run so that I can proceed with the data analysis phase of the project from the simulation and lotteries.
+
+Hours: 15-20 - its taking a lot of time every week
+
 #5 - 2/27/2024
 Progress: I have the simulation working for a single permit.
 
